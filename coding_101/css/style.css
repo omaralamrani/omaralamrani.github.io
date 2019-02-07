@@ -1,0 +1,22 @@
+body {
+  background-color: #FAFAFA;
+  color: white;
+}
+
+h1 {
+  color: black;
+  font-family: sans-serif;
+  font-size: 24px;
+}
+h2 {
+  color: #5F5E61;
+  font-size: 40px;
+}
+p {
+  color: #5F5E61;
+  width: 600px;
+}
+img {
+  height: auto;
+  width: 300px;
+}
